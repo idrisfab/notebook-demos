@@ -1,0 +1,16 @@
+alphashape
+black[jupyter]
+descartes
+duckdb
+geopandas
+h3
+isort
+mapclassify
+matplotlib
+networkx
+numpy
+osmnx
+pandas
+pandas
+plotly
+shapely
