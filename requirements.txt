@@ -14,3 +14,5 @@ pandas
 pandas
 plotly
 shapely
+folium
+pyarrow
