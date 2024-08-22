@@ -12,7 +12,8 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-toolsai.jupyter-keymap",
-				"ms-toolsai.jupyter"
+				"ms-toolsai.jupyter",
+				"ms-toolsai.jupyter-hub"
 			]
 		}
 	}
