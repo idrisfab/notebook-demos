@@ -1,2 +1,2 @@
-# notebook-demos
-Repo to store random notebooks
+# Notebook Demonstration
+Just a demonstration
